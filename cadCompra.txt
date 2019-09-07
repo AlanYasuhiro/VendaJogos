@@ -1,0 +1,172 @@
+
+Hora: 9:34:18
+Dia: 2/7/2017
+Nome: Alan Yasuhiro Nishida
+Quantidade: 2
+Jogo: Forza Horizon 3
+Valor: 89.90
+Quantidade: 2
+Jogo: Grand Theft Auto V
+Valor: 170.00
+Valor Total: 519,80
+----------------------------------
+
+
+Hora: 9:35:23
+Dia: 2/7/2017
+Nome: Alan Yasuhiro Nishida
+Quantidade: 2
+Jogo: Grand Theft Auto V
+Valor: 170.00
+Valor Total: 340,00
+----------------------------------
+
+
+Hora: 9:47:32
+Dia: 2/7/2017
+Nome: Alan Yasuhiro Nishida
+Quantidade: 2
+Jogo: Grand Theft Auto V
+Valor: 170.00
+Quantidade: 2
+Jogo: Forza Horizon 3
+Valor: 89.90
+Quantidade: 2
+Jogo: Street Fighter V
+Valor: 50.00
+Valor Total: 619,80
+----------------------------------
+
+
+Hora: 14:15:19
+Dia: 2/7/2017
+Nome: Alan Yasuhiro Nishida
+Quantidade: 2
+Jogo: Forza Horizon 3
+Valor: 89.90
+Valor Total: 179,80
+----------------------------------
+
+
+Hora: 9:54:2
+Dia: 3/7/2017
+Nome: Alan Yasuhiro Nishida
+Quantidade: 1
+Jogo: Dragon Ball Xenoverse 2
+Valor: 130.00
+Quantidade: 2
+Jogo: Pro Evolution Soccer 2017
+Valor: 130.00
+Valor Total: 390,00
+----------------------------------
+
+
+Hora: 9:56:43
+Dia: 3/7/2017
+Nome: Alan Yasuhiro Nishida
+Quantidade: 1
+Jogo: Forza Horizon 3
+Valor: 105.00
+Quantidade: 1
+Jogo: Mortal Kombat XL
+Valor: 156.00
+Valor Total: 261,00
+----------------------------------
+
+
+Hora: 20:36:38
+Dia: 3/7/2017
+Nome: Alan Yasuhiro Nishida
+Quantidade: 2
+Jogo: Fallout 4
+Valor: 60.00
+Valor Total: 120,00
+----------------------------------
+
+
+Hora: 21:3:38
+Dia: 3/7/2017
+Nome: Alan Yasuhiro Nishida
+Quantidade: 2
+Jogo: The Last Of Us Remasterizado
+Valor: 88.00
+Quantidade: 2
+Jogo: Battlefield 1
+Valor: 169.00
+Valor Total: 514,00
+----------------------------------
+
+
+Hora: 22:51:55
+Dia: 3/7/2017
+Nome: Alan Yasuhiro Nishida
+Quantidade: 2
+Jogo: Dragon Ball Xenoverse 2
+Valor: 130.00
+Valor Total: 260,00
+----------------------------------
+Hora: 23:2:17
+Dia: 3/7/2017
+Nome: Alan Yasuhiro Nishida
+Quantidade: 2
+Jogo: Injustice 2
+Valor: 210.00
+Valor Total: 420,00
+----------------------------------
+
+
+Hora: 23:5:44
+Dia: 3/7/2017
+Nome: Alan Yasuhiro Nishida
+Quantidade: 2
+Jogo: The Last Of Us Remasterizado
+Valor: 88.00
+Valor Total: 176,00
+----------------------------------
+
+
+Hora: 23:22:40
+Dia: 3/7/2017
+Nome: Olesio Gardenghi Neto
+Quantidade: 2
+Jogo: Battlefield 1
+Valor: 169.00
+Valor Total: 338,00
+----------------------------------
+
+
+Hora: 9:20:7
+Dia: 4/7/2017
+Nome: Alan Yasuhiro Nishida
+Quantidade: 2
+Jogo: Dying Light: Enhanced Edition
+Valor: 99.00
+Valor Total: 198,00
+----------------------------------
+
+
+Hora: 11:38:17
+Dia: 4/7/2017
+Nome: Daniel
+Quantidade: 1
+Jogo: Watch Dogs 2
+Valor: 130.00
+Quantidade: 1
+Jogo: Fallout 4
+Valor: 60.00
+Valor Total: 190,00
+----------------------------------
+
+
+Hora: 13:45:22
+Dia: 8/10/2017
+Nome: Daniel Venancio
+Quantidade: 2
+Jogo: Ryse: Son of Rome
+Valor: 70.00
+Quantidade: 2
+Jogo: UFC
+Valor: 40.00
+Valor Total: 220,00
+----------------------------------
+
